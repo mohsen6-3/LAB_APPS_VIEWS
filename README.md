@@ -1,0 +1,14 @@
+
+# LAB_APPS_VIEWS
+
+## Using what you learned , Create a new Django Project (CarsRental) . With 1 app , which has  views handling the following paths : 
+
+### When requesting `http://127.0.0.1:8000/`, it should return the phrase :
+`Hello World, This is my new HOME for Car Rentals Website  ! we're excited to welcome you here.`
+
+### When requesting `http://127.0.0.1:8000/about/`, it should return  :
+ `A simple paragraph about Car Rentals. `
+
+# Bonus (do it in the same project, a new page)
+## When requesting `http://127.0.0.1:8000/password/generate/`, it should return a randomly generated password of length 10 characters (letters, upper, lower, symbols)  :
+- `e$dkjf@mA2`
